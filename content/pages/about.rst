@@ -12,14 +12,13 @@ The content herein is what the authors contribute to it. However, the aim is top
 Who are the authors?
 ====================
 
-They are certainly Lojbanists who have taken the time to explore these topics to the point that bears repeating! And have the fortitude to see the thought consumated for the benefit of the rest of us. That is to say, it is less useful to characterize our authors than to venerate the kinds of contributions that they make. And the fruits of concerted and oriented efforts to extend our reasoning of Lojban will always be welcome.
+They are certainly Lojbanists who have taken the time to explore these topics to the point that deserves expatiation! And have the fortitude to see the thought consumated for the benefit of the rest of us. That is to say, it is less useful to characterize our authors than to venerate the kinds of contributions that they make. And the fruits of concerted and oriented efforts to extend our understanding of Lojban will always be welcome.
 
 How do I contribute?
 ====================
 
-This site is statically generated from source that is available at http://github.com/banski/banski.github.io Its important to be familiar with the utility `Git <https://help.github.com/articles/good-resources-for-learning-git-and-github/>`_. By "forking" the `banski.github.io` repository, you can make your own changes to the site (such as creating a new article). Then you can through the Github website submit a pull-request asking the other contributors to Banski to review your contributions. If nothing is wrong with your submission it will be merged and appear `on the site <http://banski.github.io>`_.
+If you'd like to contribute directly, you'll need to be familiar with the goings-ons of open-source. Specifically, how to use `Git <https://help.github.com/articles/good-resources-for-learning-git-and-github/>`_ to fork repositories and submit pull requests. Additionally, the site is built with a nice Python static site generator `Pelican <http://blog.getpelican.com/>`_. You'll have to get familiar with it if you want to build the site locally to see how your changes will look before submitting them for review.
 
-Beyond using Git, the actual system used for generating the site is `Pelican <http://blog.getpelican.com/>`_. Its a nice Python static site generator in that it makes it very easy to actually build the site and try it out locally. This will let you review your changes just as they'll appear once accepted.
+If none of that is your cup of tea, you can always reach out to an existing author for help getting your contribution formatted and submitted once you have authored it. 
 
-Eventually a review of this whole process will be made, but until then - just ask around.
-
+**At minimum your article will need to be formatted as a** `ReStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_ **document.**
