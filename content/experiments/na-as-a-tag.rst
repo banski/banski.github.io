@@ -4,7 +4,6 @@ NA as tag re-visited
 
 :date: 2015-07-15
 :tags: na, bai
-:category: experiments
 :authors: selpa'i
 
 Quite a while ago (3 years!?) I wrote an article about NA acting as a tag and even though I had discarded the idea back then it reappeared recently, both in ctefaho's attempts at formalizing Lojban's tags and in gleki's altatufa parser. Now seems as good a time as any to add my own ideas to the mix before they won't get heard anymore.
