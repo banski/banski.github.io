@@ -3,12 +3,9 @@ NA as tag re-visited
 
 
 :date: 2015-07-15
-:modified: 2015-07-15
 :tags: na, bai
 :category: experiments
-:slug: na-as-a-tag-re-visited
 :authors: selpa'i
-:summary: selpa'i revisits an idea of using {na} as a BAI tag
 
 Quite a while ago (3 years!?) I wrote an article about NA acting as a tag and even though I had discarded the idea back then it reappeared recently, both in ctefaho's attempts at formalizing Lojban's tags and in gleki's altatufa parser. Now seems as good a time as any to add my own ideas to the mix before they won't get heard anymore.
 The old idea was that the argument tagged by {na} would be the thing that negates or contradicts the bridi, the thing due to which the bridi is false. This seems to be the idea that ctefaho has recently picked up for {na} as tag.
