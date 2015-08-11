@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u"su'o jbopre"
 SITENAME = u'banski'
 SITEMOTTO = u'a venue for Lojban enthusiasts'
-SITEURL = 'http://banski.github.io'
+SITEURL = '//banski.github.io'
 PLUGINS = ['tag_cloud', ]
 THEME = 'bootstrap'
 CUSTOM_CSS = 'theme/css/custom.css'
