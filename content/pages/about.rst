@@ -17,7 +17,7 @@ They are certainly Lojbanists who have taken the time to explore these topics to
 How do I contribute?
 ====================
 
-If you'd like to contribute directly, you'll need to be familiar with the goings-ons of open-source. Specifically, how to use `Git <https://help.github.com/articles/good-resources-for-learning-git-and-github/>`_ to fork repositories and submit pull requests. Additionally, the site is built with a nice Python static site generator `Pelican <http://blog.getpelican.com/>`_. You'll have to get familiar with it if you want to build the site locally to see how your changes will look before submitting them for review.
+If you'd like to contribute directly, you'll need to be familiar with the goings-ons of open-source. Specifically, how to use `Git <https://help.github.com/articles/good-resources-for-learning-git-and-github/>`_ to fork repositories and submit pull requests to the `initial rpeository <https://github.com/banski/banski.github.io>`_. Additionally, the site is built with a nice Python static site generator `Pelican <http://blog.getpelican.com/>`_. You'll have to get familiar with it if you want to build the site locally to see how your changes will look before submitting them for review.
 
 If none of that is your cup of tea, you can always reach out to an existing author for help getting your contribution formatted and submitted once you have authored it. 
 
